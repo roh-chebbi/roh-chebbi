@@ -1,6 +1,6 @@
 # Hi, I'm Rohini 👋
 
-I'm a Bioinformatics Scientist / Computational Biologist focused on NGS, WGS, and single-cell RNA-seq analysis, with experience in both clinical and research genomics.
+I'm a Bioinformatics Scientist focused on NGS, WGS, and single-cell RNA-seq analysis, with experience in both clinical and research genomics.
 
 - 🔬 Current: Biomedical Data Scientist @ University of Kentucky – WGS, clonal hematopoiesis (CHIP), and ML models for Alzheimer's disease genomics.
 - 🧬 Previous: Graduate Research Assistant @ Emory – scRNA-seq–guided drug repurposing pipelines and RNA-seq contamination workflows (Nextflow, HPC).
